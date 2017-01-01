@@ -17,11 +17,11 @@ NOTE:  Always obtain the latest version available from Teradata Software Server 
 ---  Begin Current Version Information ---
 *************************************************************************
 *************************************************************************
-TDput 3.09.04.11 (02/15/2019) contains fixes for the following DRsRFCs:
+TDput 3.09.04.12 (xx/xx/2019) contains fixes for the following DRsRFCs:
 No.  JIRA #    Description
 ===  ========  ============================================
-1.   PUT-6421  Configure TD - Finished Screen displays incorrect path for control_settings_changes.[time stamp].txt file
-2.   PUT-6513  Coverity Impact HIGH: Resource Leak - FDEProcedures.cpp ReadPassPhrase()
+1.   PUT-6600  a bug fix
+2.   PUT-6601  another bug fix
 *************************************************************************
 ***  End Current Version Information ***
 *************************************************************************
@@ -30,6 +30,12 @@ No.  JIRA #    Description
 *************************************************************************
 ---  Begin Previous Version Information ---
 *************************************************************************
+TDput 3.09.04.11 (02/15/2019) contains fixes for the following DRsRFCs:
+No.  JIRA #    Description
+===  ========  ============================================
+1.   PUT-6421  Configure TD - Finished Screen displays incorrect path for control_settings_changes.[time stamp].txt file
+2.   PUT-6513  Coverity Impact HIGH: Resource Leak - FDEProcedures.cpp ReadPassPhrase()
+
 TDput 3.09.04.10 (01/31/2019) contains fixes for the following DRsRFCs:
 No.  JIRA #    Description
 ===  ========  ============================================
